@@ -39,9 +39,6 @@ iOS users can do it as well, but they'll have to use an [online tutorial](https:
 - **Showcase your app**  
 And drink a beer together
 
-
-but the implementation is totally up to you! Be creative and have fun!
-
 ## Vuforia setup in Unity
 First, we'll enable the Vuforia plugin by going to **Edit** -> **Project Settings** -> **Player** -> **XR Settings** and enabling Vuforia Augmented Reality.  
 ![Checkboxes](images/player.jpg)  
